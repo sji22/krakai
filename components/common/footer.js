@@ -59,11 +59,11 @@ export default function Footer() {
 				<p>
 					©{' '}
 					<a
-						title={'huglemon'}
-						href='http://huglemon.com?rel=landingpage'
+						title={'krakai'}
+						href='#'
 						target='_blank'
 					>
-						hugLemon
+						Claude Krakai
 					</a>{' '}
 					present.
 				</p>
